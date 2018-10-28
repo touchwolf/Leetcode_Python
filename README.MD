@@ -1,1 +1,1 @@
-# 刷Leetcode，记录在jupyter notebook中
+# Leetcode_jupyter notebook
